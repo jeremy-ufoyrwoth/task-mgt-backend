@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1739441617941,
+      "tag": "0000_nappy_magneto",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1739443778167,
+      "tag": "0001_perpetual_madame_masque",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1739631090665,
+      "tag": "0002_common_norman_osborn",
+      "breakpoints": true
+    }
+  ]
+}
